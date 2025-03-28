@@ -1,1 +1,2 @@
 # butterworth-HIGH-pass-filter_IPMV
+The Butterworth High-Pass Filter is the inverse of the Butterworth Low-Pass Filter. Instead of allowing low-frequency components to pass through while attenuating high-frequency components, it allows high-frequency components to pass while attenuating low-frequency components. The high-pass filter is often used in image processing to enhance or detect edges and details in an image by removing the smooth, low-frequency parts (such as backgrounds or uniform areas).
